@@ -1,0 +1,1 @@
+# humedad temperatura y sonido
